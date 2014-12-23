@@ -1,5 +1,4 @@
 CodingLuo.github.io
 ===================
 
-CodingLuo Blog
-New 
+Coming soon...
